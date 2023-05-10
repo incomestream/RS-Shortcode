@@ -7,7 +7,7 @@ Author: ZigzagPress
 Author URI: http://www.zigzagpress.com/
 Text Domain: zp-shortcodes
 Domain Path: /languages/
-Version: 1.0.0
+Version: 1.0.1
 License: GNU General Public License v2.0 (or later)
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */

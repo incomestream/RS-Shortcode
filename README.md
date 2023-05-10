@@ -1,4 +1,4 @@
-# second-time-around-html
+# rs-shortcode
 RS Shortcode is a custom shortcodes for WP.
 
 -----------------------------------------------------------------------------------------

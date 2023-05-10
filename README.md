@@ -1,2 +1,8 @@
-# RS-Shortcode
-Custom shortcodes for WP
+# second-time-around-html
+RS Shortcode is a custom shortcodes for WP.
+
+-----------------------------------------------------------------------------------------
+ Version 1.0 - May 10th, 2023
+ -----------------------------------------------------------------------------------------
+               
+ - Initial release
